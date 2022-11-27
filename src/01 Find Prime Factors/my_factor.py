@@ -17,4 +17,4 @@ def get_factors(num: int) -> list[int]:
             div += 1
     return ret
 
-print(get_factors(7))
+print(get_factors(630))
