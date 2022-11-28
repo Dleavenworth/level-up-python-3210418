@@ -17,4 +17,4 @@ def count_words(path):
 
 # commands used in solution video for reference
 if __name__ == '__main__':
-    count_words('shakespeare.txt')
+    count_words('src/10 Count Unique Words/shakespeare.txt')

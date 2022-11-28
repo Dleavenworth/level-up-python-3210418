@@ -21,4 +21,5 @@ def merge_csv(csv_list, output_path):
 
 # commands used in solution video for reference
 if __name__ == '__main__':
-    merge_csv(['class1.csv', 'class2.csv'], 'all_students.csv')
+    merge_csv(["src/12 Merge CSV Files/class1.csv",
+              'src/12 Merge CSV Files/class2.csv'], 'all_students.csv')
